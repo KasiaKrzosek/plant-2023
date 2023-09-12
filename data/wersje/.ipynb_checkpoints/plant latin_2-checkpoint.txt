@@ -1,0 +1,12 @@
+Callitriche cophocarpa.jpg | Debnicko-Tyniecki obszar lakowy | Callitrichaceae | rodzimy wodny | Callitriche cophocarpa | Calystegia sepium | Carex pallescens | Aegopodium podagraria | Erigeron canadensis
+Rorippa sylvestris.jpg | Debnicko-Tyniecki obszar lakowy | Brassicaceae | rodzimy brzegów wód | Rorippa sylvestris | Gymnadenia conopsea | Carex umbrosa | Dactylis glomerata | Euphorbia cyparissias
+Aegopodium podagraria.jpg | Debnicko-Tyniecki obszar lakowy | Apiaceae | apofit leśny | Aegopodium podagraria | Luzula multiflora | Sium latifolium | Quercus rubra | Succisa pratensis
+Primula elatior.jpg | Debnicko-Tyniecki obszar lakowy | Primulaceae | rodzimy łąkowy | Primula elatior | Viola canina | Aster tradescantii | Centaurea scabiosa | Trifolium dubium
+Achillea millefolium.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | rodzimy łąkowy | Achillea millefolium | Viola palustris | Fragaria viridis | Orobanche purpurea | Cuscuta epithymum
+Centaurea scabiosa.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | apofit muraw kserotermicznych | Centaurea scabiosa | Anthoxanthum odoratum | Rhynchospora alba | Carex hostiana | Euphorbia palustris
+Crepis biennis.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | rodzimy łąkowy | Crepis biennis | Holcus lanatus | Agropyron repens | Sorbus aucuparia | Scorzonera humilis
+Ornithogalum umbellatum.jpg | Debnicko-Tyniecki obszar lakowy | Asparagaceae | apofit muraw kserotermicznych | Ornithogalum umbellatum | Impatiens glandulifera | Iris pseudoacorus | Carex nigra | Cuscuta epithymum
+Bolboschoenus maritimus.jpg | Debnicko-Tyniecki obszar lakowy | Cyperaceae | rodzimy brzegów wód | Bolboschoenus maritimus | Oenanthe aquatica | Polygonum lapathifolium | Petasites officinalis | Cirsium canum
+Poa trivialis.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | rodzimy łąkowy | Poa trivialis | Ranunculus auricomus | Campanula patula | Carex demissa | Dactylorhiza incarnata
+Glyceria aquatica.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | rodzimy błotny | Glyceria aquatica | Equisetum palustre | Veronica scutellata | Lotus uliginosus | Valeriana officinalis
+Bromus inermis.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | apofit muraw kserotermicznych | Bromus inermis | Tragopogon pratensis | Oenanthe aquatica | Lamium purpureum | Malachium aquaticum

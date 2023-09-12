@@ -1,0 +1,12 @@
+Callitriche cophocarpa.jpg | Debnicko-Tyniecki obszar lakowy | Callitrichaceae | rodzimy wodny | Callitriche cophocarpa | Scirpus radicans | storczyk samczy/samiczy | klon zwyczajny | Teucrium scordium
+Rorippa sylvestris.jpg | Debnicko-Tyniecki obszar lakowy | Brassicaceae | rodzimy brzegów wód | rzepicha leśna | Bidens tripartita | Galium verum | ['skrzyp polny'] | skrzyp polny
+Aegopodium podagraria.jpg | Debnicko-Tyniecki obszar lakowy | Apiaceae | apofit leśny | Aegopodium podagraria | ostrożeń polny | Anthoxanthum odoratum | wełnianka szerokolistna | Gnaphalium uliginosum
+Primula elatior.jpg | Debnicko-Tyniecki obszar lakowy | Primulaceae | rodzimy łąkowy | Primula elatior | dziurawiec skrzydełkowaty | Centaurium erythraea | Galium boreale | Lathyrus pratensis
+Achillea millefolium.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | rodzimy łąkowy | krwawnik pospolity | Populus nigra | kostrzewa murawowa | malina właściwa | turzyca ściśniona
+Centaurea scabiosa.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | apofit muraw kserotermicznych | chaber driakiewnik | Poa trivialis | Calamagrostis epigejos | Tussilago farfara | Allium oleraceum
+Crepis biennis.jpg | Debnicko-Tyniecki obszar lakowy | Asteraceae | rodzimy łąkowy | Crepis biennis | wierzba purpurowa | Poa palustris | turzyca pęcherzykowata | groszek błotny
+Ornithogalum umbellatum.jpg | Debnicko-Tyniecki obszar lakowy | Asparagaceae | apofit muraw kserotermicznych | śniedek baldaszkowaty | Betonica officinalis | Polygonum convolvulus | Pimpinella major | goździeniec okółkowy
+Bolboschoenus maritimus.jpg | Debnicko-Tyniecki obszar lakowy | Cyperaceae | rodzimy brzegów wód | Bolboschoenus maritimus | Sonchus arvensis | Gentiana pneumonanthe | wiechlina roczna | koniczyna biała
+Poa trivialis.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | rodzimy łąkowy | Poa trivialis | Ballota nigra | Torilis japonica | oman wierzbolistny | śliwa tarnina
+Glyceria aquatica.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | rodzimy błotny | manna mielec | Campanula rapunculoides | przetacznik błotny | Sinapis arvensis | Achillea millefolium
+Bromus inermis.jpg | Debnicko-Tyniecki obszar lakowy | Poaceae | apofit muraw kserotermicznych | Bromus inermis | Carduus acanthoides | krwawnik pospolity | mydlnica lekarska | świetlik łąkowy
